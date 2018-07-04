@@ -6,4 +6,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZTESTESTEST.
-write: 'Hello world'.
+write: 'Hello world from sap'.
